@@ -9,7 +9,8 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+sandbox/
+libssh2/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
