@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 891f8650ad03d5416f5edb94c496a4dc24e29b32 Administrator <Administrator@WIN10SERV> 1592268608 -0700	commit (initial): Add .gitignore and .gitattributes.
+891f8650ad03d5416f5edb94c496a4dc24e29b32 55074a47ac952f3e8b2165e8672d9207e7fd3827 tomchadar <tomchadar@gmail.com> 1592269358 -0700	commit: Initial commit
+55074a47ac952f3e8b2165e8672d9207e7fd3827 38433e07e027394ef4f86728691e36872710fedd tomchadar <tomchadar@gmail.com> 1592809980 -0700	commit: Vresion 1.9.5
+38433e07e027394ef4f86728691e36872710fedd dfa60d8b67af1c370d2c7b03698c8cf0ff5ceab4 tomchadar <tomchadar@gmail.com> 1592810049 -0700	pull --verbose --progress --no-edit --no-stat --recurse-submodules=no origin: Merge made by the 'recursive' strategy.
+dfa60d8b67af1c370d2c7b03698c8cf0ff5ceab4 213f3b48219f60ee6745258ff41c9a9c6aa6a9cf tomchadar <tomchadar@gmail.com> 1593831375 -0700	commit (amend-merge): Merge branch 'master' of https://github.com/tomchadar/cloudersync
+213f3b48219f60ee6745258ff41c9a9c6aa6a9cf 1c9446e71e092496554e02bbe81ad01c696b9ada tomchadar <tomchadar@gmail.com> 1593831426 -0700	commit: Synchronizing
